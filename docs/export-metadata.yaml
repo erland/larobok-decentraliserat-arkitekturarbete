@@ -1,0 +1,37 @@
+title: "Arkitektens vardag i en decentraliserad myndighet"
+subtitle: "Praktisk styrning, samordning och kvalitetssäkring av arkitektur"
+author: "Erland Lindmark"
+language: "sv"
+difficulty: "experienced"
+audience: "IT-arkitekter i en decentraliserad statlig myndighetsorganisation"
+book_type: "textbook-handbook"
+edition: "1"
+version: "0.15"
+date: "2026-05-13"
+rights: "All rights reserved"
+publisher: ""
+cover_image: ""
+identifier: "" # valfritt ISBN/URI för EPUB
+subject: "IT-arkitektur; arkitekturstyrning; kvalitetssäkring; samordning; agil utveckling; offentlig sektor"
+description: "En praktisk lärobok/handbok för IT-arkitekter om styrning, kvalitetssäkring och samordning av arkitektur i en decentraliserad statlig myndighetsorganisation."
+chapters:
+  - chapters/00-inledning.md
+  - chapters/01-vad-arkitekturarbete-egentligen-handlar-om.md
+  - chapters/02-den-decentraliserade-arkitektens-vardag.md
+  - chapters/03-varfor-styrning-behovs-aven-i-agil-utveckling.md
+  - chapters/04-samordning-som-praktiskt-arkitekturarbete.md
+  - chapters/05-kvalitetssakring-utan-att-bromsa-utvecklingen.md
+  - chapters/06-arkitekturprinciper-i-praktiken.md
+  - chapters/07-arkitekturbeslut-och-sparbarhet.md
+  - chapters/08-operativa-och-stodjande-arkitekter-tillsammans.md
+  - chapters/09-att-hantera-avvikelser-och-lokala-losningar.md
+  - chapters/10-teknisk-skuld-och-langsiktig-hallbarhet.md
+  - chapters/11-arkitektur-i-teamens-flode.md
+  - chapters/12-att-bygga-fortroende-som-arkitekt.md
+  - chapters/13-gemensam-arkitekturmognad.md
+  - chapters/14-fran-kontroll-till-mojliggorande-arkitektur.md
+exports:
+  epub: true
+  docx: true
+  pdf: true
+  markdown: true
